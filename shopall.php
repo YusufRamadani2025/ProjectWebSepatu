@@ -7,7 +7,7 @@
   
 <?php include "komponen/navbar.php"; ?>
 
-  <?php include "page/home2.php"; ?>
+  <?php include "page/shopall.php"; ?>
 
 <?php include "komponen/footer.php"; ?>
 
