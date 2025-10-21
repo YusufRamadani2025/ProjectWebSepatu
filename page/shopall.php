@@ -1,3 +1,5 @@
+
+
 <!-- Carousel -->
 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -16,13 +18,13 @@
     <div class="row g-4">
       <div class="col-6 col-md-3">
         <div class="card product-card">
-          <img src="Image/Rectangle 18 (4).png" alt="Puma Black" class="card-img-top">
-          <div class="card-body"> 
-            <hr>
-            <h6>PUMA</h6>
-            <p>Speedcat OG Unisex Lifestyle Shoes - Black</p>
-            <span class="price">Rp. 1.899.000</span>
-          </div>
+            <img src="Image/Rectangle 18 (4).png" alt="Puma Black" class="card-img-top">
+            <div class="card-body"> 
+              <hr>
+              <h6>PUMA</h6>
+              <p>Speedcat OG Unisex Lifestyle Shoes - Black</p>
+              <span class="price">Rp. 1.899.000</span>
+            </div>
         </div>
       </div>
 
@@ -42,11 +44,13 @@
         <div class="card product-card">
           <img src="Image/Rectangle 18 (6).png" alt="Puma MB.03" class="card-img-top">
           <div class="card-body">
+            <a href="detail.php">
             <hr>
             <h6>PUMA</h6>
             <p>MB.03 Lo TMNT Krang Unisex Basketball Shoes</p>
             <span class="price">Rp. 1.999.000</span>
           </div>
+          </a>
         </div>
       </div>
 

@@ -50,6 +50,12 @@ body, .navbar, .nav-link, .dropdown-item {
   border-radius: 6px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   height: 100%;
+  
+}
+
+.card {
+  text-decoration: none;
+  color: #000000;
 }
 
 .product-card:hover {
@@ -85,6 +91,13 @@ body, .navbar, .nav-link, .dropdown-item {
   color: #000;
 }
 
+.card a {
+  text-decoration: none; /* hilangkan underline */
+  color: inherit;        /* ikuti warna parent, bukan biru */
+}
+.card a:hover {
+  color: inherit;        /* pas hover tetap tidak berubah */
+}
 
 
 
