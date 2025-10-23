@@ -345,8 +345,9 @@
       <!-- [ Main Content ] start -->
       
         <?php 
-            include "./admin-page/dashboard.php"
+            include "./admin-page/input_kategori.php"
         ?>
+        
 
     </div>
   </div>
